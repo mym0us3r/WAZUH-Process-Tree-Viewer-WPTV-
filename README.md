@@ -4,7 +4,7 @@ WAZUH Process Tree Viewer (WPTV) is a high-performance forensic visualization to
 --------------------------------
 > Version: 1.0 
 > Last Updated: 2025-12-18
-> Wazuh Compatibility: 4.14.1
+> Wazuh Compatibility: 4.14.0
 > OpenSearch Dashboards: 2.19.3
 
 ![WPTV Main Dashboard](img/wazuh_process_tree_viewer.png)
